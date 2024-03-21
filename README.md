@@ -85,10 +85,18 @@ How to use our project:
 
 ```
 # Example
-To start a typing race:
-1. Navigate to the typing race section in the dashboard.
-2. Click on "Start Race" to join a race or create a new one.
-3. Once the race starts, type the given text as fast and accurately as possible.
+To book a cab(user view):
+1. log in or register using user crediential.
+2. after login select start and destination location.
+3. then select ride whichever you want.
+4. and request a cab.
+```
+```
+To accept ride request (driver view):
+1. log in or register using driver crediential.
+2. after login select toggle the status available or not.
+3. after toggling available driver will get the request , then he can accept request from rider.
+4. and request a cab.
 ```
 ## Screenshots
 
